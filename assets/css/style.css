@@ -167,19 +167,19 @@ h2 {
     border-radius: 0 15px 15px 0; }
     .contact-pop .content h3 {
       color: #3d383a;
-      font-size: 30px;
+      font-size: 20px;
       text-transform: uppercase;
-      margin-bottom: 10px; }
+      margin-bottom: 5px; }
     .contact-pop .content h4 {
       color: #978b91;
-      font-size: 18px;
+      font-size: 15px;
       font-family: "PT-Sans-Regular"; }
     .contact-pop .content p {
       color: #584f53; }
     .contact-pop .content hr {
       background-color: #c2a180;
       width: 50px;
-      height: 5px;
+      height: 2px;
       border: none;
       margin-left: 0; }
     .contact-pop .content a {
@@ -188,7 +188,7 @@ h2 {
       border-radius: 40px;
       color: #fefefe;
       padding: 10px 0;
-      margin-top: 20px; }
+      margin-top: 10px; }
     @media (max-width: 991px) {
       .contact-pop .content {
         padding: 20px 20px 20px 25px; }
@@ -197,7 +197,7 @@ h2 {
         .contact-pop .content h4 {
           font-size: 16px; }
         .contact-pop .content p {
-          font-size: 14px; }
+          font-size: 5px; }
         .contact-pop .content a {
           width: 120px;
           padding: 5px 0; }
@@ -569,11 +569,15 @@ h2 {
 .fh5co-about-me {
   padding: 0; }
   .fh5co-about-me .card-img-overlay {
-    background-color: rgba(105, 67, 35, 0.902); }
+    background-color: rgba(158, 108, 74, 0.902); }
   .fh5co-about-me h2 {
     text-align: center;
     color: #fff;
     margin: 70px auto; }
+    .fh5co-about-me h5 {
+      text-align: center;
+      color: #fff;
+      margin: 40px auto; }
   .fh5co-about-me .card-img {
     min-height: 730px; }
   .fh5co-about-me .carousel-indicators {
